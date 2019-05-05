@@ -1,0 +1,195 @@
+
+.navstyle{
+    background-color: rgba(15, 119, 114, 0.562);
+}
+
+.logo{
+    width: 50px;
+    height: 30px;
+    color: white;
+}
+.btn:hover{
+    background-color:rgb(23, 34, 82);
+    color: wheat;
+
+}
+.nav-link:hover{
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+
+.jumbotron{
+    background-image: url("../pictures/header4.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    padding-top: 60px;
+    margin-bottom: 0px;
+}
+
+
+.sign{
+padding-left: 1px;
+}
+
+.textheader{
+    color: white;
+    text-shadow: 0 0 5px rgb(0, 0, 0), 0 0 5px rgb(0, 0, 0);
+    text-align:right;
+    position: relative;
+}
+.spanjumb{
+    color: white;
+    text-shadow: 0 0 5px rgb(0, 0, 0), 0 0 5px rgb(0, 0, 0);
+    float: right;
+    margin: 40px
+}
+
+#news{
+    background-color:#1f6269d0;
+    padding-top: 55px;
+    padding-bottom: 50px;
+}
+
+#carouselExampleCaptions{
+    /* border: 3px solid rgba(59, 240, 201, 0.192); */
+    width: 77%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 50px;
+    box-shadow: 0px 1px 7px 2px rgba(108, 236, 236, 0.315);
+}
+
+.newstitle{
+    width: 50%;
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+    text-align: center;
+    color: white;
+    margin:auto;
+    margin-bottom: 20px;
+    text-shadow: 0 0 5px rgb(0, 0, 0), 0 0 5px rgb(0, 0, 0);
+}
+#monuments{
+    background: #225cfa4b;
+}
+#nature{
+    background: #3f73ff91;
+}
+
+.sect{
+    background-color: #7d7e61;
+    padding-top: 55px;
+    padding-bottom: 30px;
+}
+ .cardmon{
+     background-color: #abada7;
+     text-align: center;
+     width: 80%;
+     border: 1px solid rgb(3, 61, 109);
+     border-radius: 2px;
+     margin: auto;
+     margin-top: 30px;
+     box-shadow: 0px 4px 7px 4px rgba(108, 153, 236, 0.822);
+ }
+ .more{
+     text-align: center;
+ }
+
+.shoptext{
+    text-align: right;
+    margin-right: 20px;
+    margin-top:auto;
+    margin-bottom: auto;
+}
+.shop{
+    background-color: #6b91f891;
+    padding-top: 55px;
+    padding-bottom: 30px;
+}
+.headshop{
+    width: 30%;
+    text-align: center;
+    padding-bottom: 15px;
+    border-bottom: 1px solid black;
+    margin-right: 30px;
+}
+.shopimg{
+    width: 35%;
+    border: 1px solid black;
+    border-radius: 1px;
+}
+
+#hotels{
+    background-color: #909cbe91;
+    padding-top: 55px;
+    padding-bottom: 30px;
+}
+
+.hotelcard{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+
+
+#btnScroll{
+    display: none;
+    position: fixed;
+    bottom: 30px;
+    right: 20px;
+    z-index: 99;
+    cursor: pointer;
+    padding: 16px;
+}
+
+
+.iconimg{
+    color: black;
+}
+.search{
+    width: 60%;
+}
+.footer{
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 1px;
+}
+.textfooter{
+    color: rgb(102, 102, 102);
+    text-align: right;
+}
+.textfooter:hover{
+    text-decoration: none;
+}
+.cont{
+    float: right;
+}
+.copyright{
+    color: rgb(102, 102, 102);
+    position: absolute;
+    left:1px;
+    bottom: 1px;
+    padding-bottom: 1px;
+}
+.singup{
+    text-align: right;
+}
+.imgiraq{
+    width: 70%;
+    margin:auto;
+    
+}
+.cardcode{
+    border: none;
+}
+.textcode{
+    text-align: center;
+}
+#code4iraq{
+    /* background-color: #6b91f891; */
+    padding-top: 55px;
+    padding-bottom: 30px;
+}
